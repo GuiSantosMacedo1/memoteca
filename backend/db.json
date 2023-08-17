@@ -8,20 +8,6 @@
       "favorito": false
     },
     {
-      "conteudo": "Banco Pan",
-      "autoria": "Analista",
-      "modelo": "modelo1",
-      "id": 2,
-      "favorito": false
-    },
-    {
-      "conteudo": "Banco Pan",
-      "autoria": "Analista",
-      "modelo": "modelo1",
-      "id": 3,
-      "favorito": false
-    },
-    {
       "conteudo": "Projeto para Efetivação no Pan",
       "autoria": "Minha",
       "modelo": "modelo1",
@@ -48,6 +34,20 @@
       "conteudo": "Alooooo",
       "autoria": "Carlão",
       "modelo": "modelo2"
+    },
+    {
+      "conteudo": "Flor Nagô",
+      "autoria": "Pessoal do Proa",
+      "modelo": "modelo3",
+      "favorito": false,
+      "id": 8
+    },
+    {
+      "conteudo": "Equipe do Gabs",
+      "autoria": "Gabriel",
+      "modelo": "modelo3",
+      "favorito": false,
+      "id": 9
     }
   ]
 }
